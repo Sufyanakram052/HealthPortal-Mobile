@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+	<path d="M24 0C10.7452 0 0 10.7452 0 24L0 24.036C0 37.2908 10.7092 48 23.964 48L24 48C37.2548 48 48 37.2908 48 24.036L48 24C48 10.7452 37.2908 0 24.036 0L24 0Z" fill-rule="nonzero" transform="matrix(1 0 0 1 0 0)" fill="rgb(14, 130, 253)"/>
+	<defs>
+		<clipPath id="clipPath2420325683">
+			<path d="M0 0L24 0L24 24L0 24L0 0Z" fill-rule="nonzero" transform="matrix(1 0 0 1 12 12)"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clipPath2420325683)">
+		<defs>
+			<clipPath id="clipPath6737894124">
+				<path d="M0 0L24 0L24 24L0 24L0 0Z" fill-rule="nonzero" transform="matrix(1 0 0 1 12 12)"/>
+			</clipPath>
+		</defs>
+		<g clip-path="url(#clipPath6737894124)">
+			<path d="M18 4L14 4L14 2C14 0.9 13.1 0 12 0L8 0C6.9 0 6 0.9 6 2L6 4L2 4C0.9 4 0 4.9 0 6L0 18C0 19.1 0.9 20 2 20L18 20C19.1 20 20 19.1 20 18L20 6C20 4.9 19.1 4 18 4ZM8 2L12 2L12 4L8 4L8 2ZM14 13L11 13L11 16L9 16L9 13L6 13L6 11L9 11L9 8L11 8L11 11L14 11L14 13Z" fill-rule="nonzero" transform="matrix(1 0 0 1 14 14)" fill="rgb(255, 255, 255)"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,2 @@
+/Users/mac/Documents/projects/htca_app/android/app/.cxx/RelWithDebInfo/2m4j6c72/x86/CMakeFiles/edit_cache.dir
+/Users/mac/Documents/projects/htca_app/android/app/.cxx/RelWithDebInfo/2m4j6c72/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/Users/macbook/StudioProjects/htca_app/build/app/intermediates/cxx/Debug/732v2v5e/obj/arm64-v8a

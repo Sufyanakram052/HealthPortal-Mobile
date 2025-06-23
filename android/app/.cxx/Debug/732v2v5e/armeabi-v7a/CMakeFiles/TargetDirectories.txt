@@ -1,0 +1,2 @@
+/Users/macbook/StudioProjects/htca_app/android/app/.cxx/Debug/732v2v5e/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/macbook/StudioProjects/htca_app/android/app/.cxx/Debug/732v2v5e/armeabi-v7a/CMakeFiles/rebuild_cache.dir
